@@ -1,0 +1,1 @@
+This directory stores protein point cloud model data (.Pdb)

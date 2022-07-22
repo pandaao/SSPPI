@@ -1,0 +1,1 @@
+This directory stores protein sequence data (.Fasta)
