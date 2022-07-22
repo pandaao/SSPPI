@@ -1,6 +1,6 @@
 # SSPPI
 A novel module applied to the prediction of protein-protein interaction sites using se-quence and spatial geometric features
-#Requirements
+# Requirements
 * [Python](https://www.python.org/) (3.8.13).
 * [reduce](http://kinemage.biochem.duke.edu/software/reduce.php) (3.23).
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1).
